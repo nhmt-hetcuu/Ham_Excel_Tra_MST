@@ -94,6 +94,14 @@ Nếu bạn thấy công cụ này hữu ích, giúp tiết kiệm thời gian t
 
 *(Quét mã VietQR bên dưới để chuyển khoản nhanh)*
 
-![QR Donate](link_đến_hình_ảnh_mã_QR_của_bạn.png) 
+![QR Donate](https://qr.sepay.vn/img?acc=VQRQAJMGT9786&bank=MBBank)
 
 Cảm ơn bạn rất nhiều vì đã sử dụng và ủng hộ công cụ này!
+
+## 📬 Liên hệ & Hỗ trợ
+
+Nếu bạn phát sinh lỗi, có góp ý để cải thiện công cụ hoặc đơn giản là muốn kết nối, đừng ngần ngại liên hệ với mình qua thông tin dưới đây nhé:
+
+* **Trang thông tin (Bio):** [hetcuu.com/in4](https://hetcuu.com/in4)
+
+Chúc bạn thao tác thành công và làm việc hiệu quả!

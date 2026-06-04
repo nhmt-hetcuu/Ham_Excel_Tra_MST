@@ -88,10 +88,9 @@ Nếu bạn thấy công cụ này hữu ích, giúp tiết kiệm thời gian t
 
 **💳 Thông tin ủng hộ:**
 
-*   **Ngân hàng:** [Tên Ngân Hàng - VD: Vietcombank, MB Bank...]
-*   **Số tài khoản:** `[Số Tài Khoản của bạn]`
-*   **Chủ tài khoản:** [TÊN CHỦ TÀI KHOẢN VIẾT HOA KHÔNG DẤU]
-*   **Ví Momo / ZaloPay:** `[Số điện thoại của bạn]` - [Tên của bạn]
+*   **Ngân hàng:** MB Bank
+*   **Số tài khoản:** `01001200910010`
+*   **Chủ tài khoản:** NGUYEN HOANG MINH TRI
 
 *(Quét mã VietQR bên dưới để chuyển khoản nhanh)*
 

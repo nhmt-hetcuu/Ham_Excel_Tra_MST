@@ -39,7 +39,6 @@ Sau khi cài đặt, bạn có thể sử dụng hàm trực tiếp trên bảng
 
 ```excel
 =mst(taxCode, field)
-
 ```
 
 **Trong đó:**

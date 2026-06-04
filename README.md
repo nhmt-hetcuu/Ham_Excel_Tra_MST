@@ -25,12 +25,13 @@ Bạn có thể sử dụng công cụ này theo 2 cách:
 4. Nhấn **Browse...**, tìm đến file `.xlam` vừa tải về và chọn **OK**.
 5. Đảm bảo file đã được tích chọn trong danh sách Add-in.
 
-### Cách 2: Chèn trực tiếp mã VBA (.bas)
+### Cách 2: Chèn trực tiếp vào file excel đang sử dung
 
-1. Mở file Excel của bạn, nhấn tổ hợp phím `Alt + F11` để mở cửa sổ VBA.
-2. Trên thanh menu, chọn **Insert** > **Module**.
-3. Copy toàn bộ đoạn mã trong thư mục `code_vba` dán vào Module vừa tạo.
-4. Lưu file Excel dưới định dạng có hỗ trợ Macro (Ví dụ: `.xlsm` hoặc `.xlsb`).
+1. Tải file `MST_Casso+VietQR_Hetcuu.xlam` về máy tính.
+2. Mở file Excel của bạn
+3. Kéo file `MST_Casso+VietQR_Hetcuu.xlam` vào cửa sổ đang sài
+4. Chọn **Enable Macros**
+* **Lưu Ý:** Phải kéo mỗi khi sử dụng.
 
 ## 🚀 Hướng dẫn sử dụng
 

@@ -1,7 +1,3 @@
-Dưới đây là nội dung chi tiết bạn có thể sử dụng cho file `README.md` của kho lưu trữ. Nó bao gồm phần giới thiệu, cách cài đặt và hướng dẫn chi tiết cách sử dụng hàm trong Excel.
-
----
-
 # Hàm Excel Tra Cứu Mã Số Thuế (MST) Việt Nam
 
 ## 📖 Giới thiệu

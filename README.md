@@ -8,10 +8,10 @@ Hàm lấy dữ liệu trực tiếp từ hệ thống API của xinvoice thuộ
 
 ## ✨ Tính năng nổi bật
 
-* **Tra cứu tự động:** Chỉ cần nhập Mã số thuế, hàm sẽ tự động gọi API và điền thông tin.
-* **Tốc độ cao & Tối ưu:** Tích hợp bộ nhớ tạm (Cache) bằng `Scripting.Dictionary` để lưu lại các kết quả đã tra cứu, giúp các lần gọi hàm sau với cùng một MST diễn ra ngay lập tức mà không cần gọi lại API.
+* **Tra cứu tự động:** Chỉ cần nhập Mã số thuế, hàm sẽ tự động tra và điền thông tin.
+* **Tốc độ cao & Tối ưu:** Tích hợp bộ nhớ tạm (Cache) để lưu lại các kết quả đã tra cứu, giúp các lần gọi hàm sau với cùng một MST diễn ra ngay lập tức mà không cần tra lại trên hệ thống.
 * **Chống lỗi định dạng:** Tự động loại bỏ dấu cách thừa, dấu nháy đơn `'` hoặc các ký tự khoảng trắng ẩn thường gặp khi copy từ phần mềm khác.
-* **Thân thiện với máy chủ:** Có tính năng trễ (Sleep 250ms) giữa các lần gọi mới để tránh bị chặn do gọi API quá nhanh.
+* **Thân thiện với máy chủ:** Có tính năng trễ (Sleep 250ms) giữa các lần tra mới để tránh bị lỗi do tra quá nhanh.
 
 ## ⚙️ Cài đặt
 

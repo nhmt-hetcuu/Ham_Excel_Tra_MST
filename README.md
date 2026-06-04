@@ -1,4 +1,4 @@
-# Hàm Excel Tra Cứu Mã Số Thuế (MST) Việt Nam
+# Hàm Excel Tra Cứu Mã Số Thuế Việt Nam
 
 ## 📖 Giới thiệu
 

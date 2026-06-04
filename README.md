@@ -2,7 +2,7 @@
 
 ## 📖 Giới thiệu
 
-**Ham_Excel_Tra_MST** là một tiện ích (Add-in/VBA Macro) dành cho Microsoft Excel, giúp người dùng tra cứu nhanh chóng và tự động thông tin doanh nghiệp tại Việt Nam thông qua Mã số thuế (MST).
+**Ham_Excel_Tra_MST** là một tiện ích (Add-in/VBA Macro) dành cho Microsoft Excel, giúp người dùng tra cứu nhanh chóng và tự động đưa ra thông tin từ CCCD hay MST Doanh Nghiệp.
 
 Hàm lấy dữ liệu trực tiếp từ hệ thống API của xinvoice thuộc VietQR và Casso, cho phép trả về các thông tin quan trọng như: Tên công ty, địa chỉ, trạng thái hoạt động, cơ quan quản lý,... trực tiếp ngay trên ô (cell) của Excel.
 

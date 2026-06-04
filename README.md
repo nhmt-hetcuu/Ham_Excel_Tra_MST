@@ -31,7 +31,7 @@ Bạn có thể sử dụng công cụ này theo 2 cách:
 2. Mở file Excel của bạn
 3. Kéo file `MST_Casso+VietQR_Hetcuu.xlam` vào cửa sổ đang sài
 4. Chọn **Enable Macros**
-* **Lưu Ý:** Phải kéo mỗi khi sử dụng.
+* **Lưu Ý:** Phải kéo vào mỗi khi sử dụng.
 
 ## 🚀 Hướng dẫn sử dụng
 
@@ -68,7 +68,7 @@ Giả sử ô **A2** chứa Mã số thuế: `0100109106`
 * Lấy địa chỉ: `=mst(A2, "diachi")`
 * Kiểm tra tình trạng hoạt động: `=mst(A2, "trangthai")`
 * Lấy cơ quan quản lý: `=mst(A2, "quanly")`
-
+* **Lưu Ý:** Kéo từ từ tầm từ 30 - 50 ô tùy thuộc vào máy tránh bị văng Excel
 ## ⚠️ Khắc phục sự cố (Troubleshooting)
 
 Hàm đã được tích hợp sẵn các thông báo lỗi bằng tiếng Việt không dấu để bạn dễ dàng nhận biết:

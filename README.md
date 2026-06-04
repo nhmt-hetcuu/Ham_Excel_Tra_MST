@@ -89,7 +89,7 @@ Nếu bạn thấy công cụ này hữu ích, giúp tiết kiệm thời gian t
 **💳 Thông tin ủng hộ:**
 
 *   **Ngân hàng:** MB Bank
-*   **Số tài khoản:** `01001200910010`
+*   **Số tài khoản:** ``01001200910010``
 *   **Chủ tài khoản:** NGUYEN HOANG MINH TRI
 
 *(Quét mã VietQR bên dưới để chuyển khoản nhanh)*

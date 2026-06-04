@@ -81,3 +81,20 @@ Hàm đã được tích hợp sẵn các thông báo lỗi bằng tiếng Việ
 
 * Thiết bị của bạn **bắt buộc phải có kết nối Internet** để hàm có thể hoạt động.
 * Hãy đảm bảo bạn đã bật tính năng cho phép chạy Macro trong Excel (Enable Macros).
+
+## ☕ Ủng hộ tác giả (Donate)
+
+Nếu bạn thấy công cụ này hữu ích, giúp tiết kiệm thời gian tra cứu và xử lý công việc hiệu quả hơn, bạn có thể cân nhắc mời mình một ly cà phê nhé. Sự ủng hộ của bạn là động lực rất lớn để mình tiếp tục duy trì, cập nhật sửa lỗi và phát triển thêm nhiều dự án miễn phí khác! ❤️
+
+**💳 Thông tin ủng hộ:**
+
+*   **Ngân hàng:** [Tên Ngân Hàng - VD: Vietcombank, MB Bank...]
+*   **Số tài khoản:** `[Số Tài Khoản của bạn]`
+*   **Chủ tài khoản:** [TÊN CHỦ TÀI KHOẢN VIẾT HOA KHÔNG DẤU]
+*   **Ví Momo / ZaloPay:** `[Số điện thoại của bạn]` - [Tên của bạn]
+
+*(Quét mã VietQR bên dưới để chuyển khoản nhanh)*
+
+![QR Donate](link_đến_hình_ảnh_mã_QR_của_bạn.png) 
+
+Cảm ơn bạn rất nhiều vì đã sử dụng và ủng hộ công cụ này!

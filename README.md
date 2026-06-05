@@ -4,8 +4,9 @@
 
 **Hàm Excel Tra MST** là một tiện ích (Add-in/VBA Macro) dành cho Microsoft Excel, giúp người dùng tra cứu nhanh chóng và tự động đưa ra thông tin từ CCCD hay MST Doanh Nghiệp.
 
-Hàm lấy dữ liệu trực tiếp từ hệ thống API của xinvoice thuộc VietQR và Casso, cho phép trả về các thông tin quan trọng như: Tên công ty, địa chỉ, trạng thái hoạt động, cơ quan quản lý,... trực tiếp ngay trên ô (cell) của Excel.
-
+Hàm lấy dữ liệu trực tiếp từ hệ thống API của xinvoice thuộc VietQR kết hợp Casso, cho phép trả về các thông tin quan trọng như: Tên công ty, địa chỉ, trạng thái hoạt động, cơ quan quản lý,... trực tiếp ngay trên ô (cell) của Excel.
+* **Lưu Ý:** Chưa có sự kiểm chứng của nhiều người và có thể bị trễ so với CQT vài ngày.
+  
 ## ✨ Tính năng nổi bật
 
 * **Tra cứu tự động:** Chỉ cần nhập Mã số thuế, hàm sẽ tự động tra và điền thông tin.

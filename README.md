@@ -16,7 +16,17 @@ Hàm lấy dữ liệu trực tiếp từ hệ thống API của xinvoice thuộ
 
 ## ⚙️ Cài đặt
 
-Bạn có thể sử dụng công cụ này theo 2 cách:
+### 🔓 Lưu ý quan trọng: Mở khóa (Unblock) file trước khi dùng
+
+Vì đây là file chứa mã lệnh (Macro) tải từ Internet, Windows sẽ tự động chặn để bảo mật. Nếu bỏ qua bước này, Excel có thể sẽ không cho phép hàm hoạt động. Bạn làm theo các bước sau để mở khóa:
+
+1. Mở thư mục chứa file vừa tải về.
+2. Click **chuột phải** vào file (VD: `MST_Casso+VietQR_Hetcuu.xlam`).
+3. Chọn **Properties** (Thuộc tính).
+4. Tại tab *General* (Chung), nhìn xuống góc dưới cùng và tích chọn vào ô **Unblock** (Mở khóa). *(Nếu không thấy ô này nghĩa là file của bạn đã được mở khóa sẵn).*
+5. Nhấn **Apply** sau đó nhấn **OK**.
+
+Sau khi đã mở khóa file, bạn hãy tiến hành cài đặt theo 1 trong 2 cách dưới đây.
 
 ### Cách 1: Sử dụng file Add-in `.xlam` (Khuyên dùng)
 
